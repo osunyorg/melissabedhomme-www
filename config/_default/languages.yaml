@@ -9,6 +9,17 @@ fr:
   buildFuture: true
   params:
     contact_details:
+      social_networks:
+        github:
+          label: >-
+            M-BEDH
+          value: >-
+            https://github.com/M-BEDH
+        linkedin:
+          label: >-
+            melissa-bedhomme
+          value: >-
+            linkedin.com/in/melissa-bedhomme/
 
   taxonomies:
     administrator: administrators
