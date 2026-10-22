@@ -18,3 +18,7 @@ Cache-Control = "max-age=31536000, no-transform, public"
 from = "/projets/2026-contenu-test/index.html"
 to = "/projets/2026-asv/"
 
+[[redirects]]
+from = "/personnes/index.html"
+to = "/a-propos/"
+
