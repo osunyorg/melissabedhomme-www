@@ -19,6 +19,10 @@ from = "/projets/2026-contenu-test/index.html"
 to = "/projets/2026-asv/"
 
 [[redirects]]
+from = "/personnes/equipe-editoriale/index.html"
+to = "/a-propos/equipe-editoriale/"
+
+[[redirects]]
 from = "/personnes/index.html"
 to = "/a-propos/"
 
